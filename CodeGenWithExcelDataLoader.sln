@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenWithExcelDataLoader", "CodeGenWithExcelDataLoader\CodeGenWithExcelDataLoader.csproj", "{70AF3377-DB82-42E8-B2C5-7301B9DE2D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AF3377-DB82-42E8-B2C5-7301B9DE2D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF3377-DB82-42E8-B2C5-7301B9DE2D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF3377-DB82-42E8-B2C5-7301B9DE2D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF3377-DB82-42E8-B2C5-7301B9DE2D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36A13A8B-5784-4934-B965-74139238C967}
+	EndGlobalSection
+EndGlobal
