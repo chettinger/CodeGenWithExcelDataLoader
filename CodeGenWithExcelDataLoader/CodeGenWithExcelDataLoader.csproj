@@ -110,6 +110,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="Mapping.xlsx" />
     <None Include="MOCK_DATA.xlsx" />
     <None Include="packages.config" />
   </ItemGroup>
