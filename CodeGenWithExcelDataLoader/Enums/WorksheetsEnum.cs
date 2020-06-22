@@ -8,10 +8,10 @@ namespace CodeGenWithExcelDataLoader.Enums
 {
     enum WorksheetsEnum
     {
-        Clients = 1,
-        Accounts = 2,
-        Products =3,
-        Invoices = 4
+        Accounts = 1,
+        Clients = 2,
+        Invoices = 3,
+        Products = 4
 
     }
 }
